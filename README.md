@@ -1,16 +1,40 @@
-## Hi there 👋
+# 👋 Hi, I'm Hariharan
 
-<!--
-**Walter-white-76/Walter-white-76** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Aspiring AI & Software Developer  
+🌱 Passionate about Machine Learning, Full Stack Development, and Real-world problem solving  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Projects
+
+### 🖼️ AI Image Classifier
+- Built using **Python & Streamlit**
+- Classifies images using Machine Learning models
+- Simple web interface for uploading and predicting images  
+
+---
+
+### 🌱 SoilScan AI
+- AI-based system to analyze **soil fertility**
+- Provides **fertilizer recommendations**
+- Helps in improving crop yield using data-driven insights  
+
+---
+
+## 🛠️ Skills
+
+- Python  
+- Machine Learning  
+- Streamlit  
+- React (Basics)  
+- Git & GitHub  
+
+---
+
+## 🎯 Goal
+
+To become a skilled developer and build impactful AI solutions 🚀  
+
+---
+
+⭐ *Check out my repositories to see my work!*
